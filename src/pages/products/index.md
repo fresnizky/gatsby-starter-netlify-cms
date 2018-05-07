@@ -1,6 +1,5 @@
 ---
-templateKey: 'product-page'
-path: /products
+templateKey: product-page
 title: Our Coffee
 image: /img/jumbotron.jpg
 heading: What we offer
@@ -98,4 +97,12 @@ pricing:
         - Unlimited varieties
       plan: Custom
       price: '??'
+    - description: This is a Dynamic Plan
+      items:
+        - Pay as you use.
+        - Run as you need.
+        - Destroy when you want.
+      plan: Dynamic
+      price: 99+
 ---
+
