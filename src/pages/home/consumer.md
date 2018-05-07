@@ -107,6 +107,15 @@ products:
       period: hr
       price: 19
       taxes: tax included
+    - description: >-
+        stores your car when you don’t need it, and drives it back to you when
+        you do.
+      fees: no oversize vehicle fees
+      icon: /img/steve.gif
+      name: STEVE
+      period: month
+      price: 379
+      taxes: tax included
   tagline: >-
     Avoid the detour. Let one of our friendly & professional drivers meet you
     right at your destination.
