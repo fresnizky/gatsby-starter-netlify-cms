@@ -11,7 +11,15 @@ reviews:
     user: Danshdh
 products:
   pruductList:
-    - description: 'waits with your car while you:'
+    - actions:
+        - EAT DINNER
+        - ROCK YOUR MEETING
+        - GROCERY SHOP
+        - WATCH THE GAME
+        - GO SHOPPING
+        - VISIT THE DOCTOR
+        - PICKUP THE KIDS
+      description: 'waits with your car while you:'
       fees: no oversize vehicle fees
       icon: /img/will.gif
       name: Will
