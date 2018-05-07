@@ -107,9 +107,65 @@ products:
       period: hr
       price: 19
       taxes: tax included
+    - description: >-
+        stores your car when you don’t need it, and drives it back to you when
+        you do.
+      fees: no oversize vehicle fees
+      icon: /img/steve.gif
+      name: STEVE
+      period: month
+      price: 379
+      taxes: tax included
   tagline: >-
     Avoid the detour. Let one of our friendly & professional drivers meet you
     right at your destination.
   title: Great to meet you!
+featured:
+  - icon: /img/logo01.png
+  - icon: /img/logo02.png
+  - icon: /img/logo03.png
+  - icon: /img/logo04.png
+  - icon: /img/logo05.png
+  - icon: /img/logo06.png
+  - icon: /img/logo07.png
+  - icon: /img/logo08.png
+  - icon: /img/logo09.png
+  - icon: /img/logo091.png
+callToAction:
+  image: /img/iphonedescription.gif
+  text: Still not sold? Crave deeper human interaction?
+features:
+  - align: Right
+    image: /img/360img.gif
+    text: >
+      Car maintenance is time consuming and expensive. We can help. DropCar 360
+      makes maintaining your vehicle cost effective and easy.
+    title: Save your Sunday.
+  - align: Left
+    image: /img/fijiwater.png
+    text: >-
+      We've partnered with FIJI Water, the #1 premium imported bottled water in
+      the United States, to keep you hydrated while on the go.
+    title: Now serving Earth’s Finest Water.
+  - image: /img/zendrive.png
+    text: >-
+      We’ve integrated Zendrive into our technology to track route and drive
+      quality every time we get into a car.
+    title: Safe driving is in our DNA.
+contactFooter:
+  contactIcons:
+    - icon: /img/messagebutton.png
+    - icon: /img/phone.png
+      url: 'tel:6463421595'
+  socialIcons:
+    - icon: /img/facebook.png
+      url: 'https://www.facebook.com/dropcarapp/'
+    - icon: /img/twitter.png
+      url: 'https://twitter.com/dropcarapp'
+    - icon: /img/instagram.png
+      url: 'https://www.instagram.com/drop.car/'
+  text: 'Garage, restaurant, retail or venue owner interested in partnering?'
+  title1: We'd love to connect with you
+  title2: Try DropCar
 ---
 
