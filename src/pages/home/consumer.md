@@ -152,5 +152,20 @@ features:
       We’ve integrated Zendrive into our technology to track route and drive
       quality every time we get into a car.
     title: Safe driving is in our DNA.
+contactFooter:
+  contactIcons:
+    - icon: /img/messagebutton.png
+    - icon: /img/phone.png
+      url: 'tel:6463421595'
+  socialIcons:
+    - icon: /img/facebook.png
+      url: 'https://www.facebook.com/dropcarapp/'
+    - icon: /img/twitter.png
+      url: 'https://twitter.com/dropcarapp'
+    - icon: /img/instagram.png
+      url: 'https://www.instagram.com/drop.car/'
+  text: 'Garage, restaurant, retail or venue owner interested in partnering?'
+  title1: We'd love to connect with you
+  title2: Try DropCar
 ---
 
