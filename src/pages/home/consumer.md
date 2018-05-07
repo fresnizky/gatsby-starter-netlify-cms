@@ -91,6 +91,9 @@ reviews:
     title: Best service!!!
     user: Jfbk
 products:
+  description: >-
+    Avoid the detour. Let one of our friendly & professional drivers meet you
+    right at your destination.
   pruductList:
     - actions:
         - EAT DINNER
@@ -116,9 +119,6 @@ products:
       period: month
       price: 379
       taxes: tax included
-  tagline: >-
-    Avoid the detour. Let one of our friendly & professional drivers meet you
-    right at your destination.
   title: Great to meet you!
 icons:
   - icon: /img/logo01.png
