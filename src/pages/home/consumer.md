@@ -23,6 +23,7 @@ products:
       fees: no oversize vehicle fees
       icon: /img/will.gif
       name: Will
+      period: hr
       price: 19
       taxes: tax included
   tagline: >-
