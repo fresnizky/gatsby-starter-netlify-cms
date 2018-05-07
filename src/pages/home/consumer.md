@@ -167,5 +167,17 @@ contactFooter:
   text: 'Garage, restaurant, retail or venue owner interested in partnering?'
   title1: We'd love to connect with you
   title2: Try DropCar
+Footer:
+  copyright: © Copyright – DropCar 2018
+  links:
+    - text: Help Center
+      url: 'https://dropcar.zendesk.com/hc/en-us'
+    - text: Terms & Policies
+      url: 'https://dropcar.zendesk.com/hc/en-us/articles/206031681-Terms-Conditions'
+    - text: Become a Driver
+      url: 'https://drop.car/valets'
+    - text: Investors
+      url: 'https://wpcsir.com/'
+  text: 'Hours of Operation: 24 hours, 7 Days a Week'
 ---
 
