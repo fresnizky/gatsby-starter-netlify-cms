@@ -120,5 +120,16 @@ products:
     Avoid the detour. Let one of our friendly & professional drivers meet you
     right at your destination.
   title: Great to meet you!
+featured:
+  - icon: /img/logo01.png
+  - icon: /img/logo02.png
+  - icon: /img/logo03.png
+  - icon: /img/logo04.png
+  - icon: /img/logo05.png
+  - icon: /img/logo06.png
+  - icon: /img/logo07.png
+  - icon: /img/logo08.png
+  - icon: /img/logo09.png
+  - icon: /img/logo091.png
 ---
 
