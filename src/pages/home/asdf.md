@@ -38,6 +38,7 @@ products:
         - PICKUP THE KIDS
       description: 'waits with your car while you:'
       fees: no oversize vehicle fees
+      icon: /img/will.gif
       name: Will
       period: hr
       price: 19
