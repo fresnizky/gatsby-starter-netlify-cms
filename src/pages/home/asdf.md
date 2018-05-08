@@ -1,5 +1,5 @@
 ---
-title: ASDF
+title: Real Estate
 hero:
   title: Test
 icons:
