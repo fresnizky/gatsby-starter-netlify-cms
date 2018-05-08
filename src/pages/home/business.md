@@ -42,8 +42,36 @@ features:
       Flat price per movement pricing makes accounting & expense forecasting a
       breeze. Only pay for what you use, without the overhead of return trips.
     title: 'Save money, and eliminate downtime.'
+  - align: Left
+    image: /img/img5.png
+    text: >-
+      Increase efficiency, and reduce costs by equipping your team with our
+      customizable workforce optimization application. Integrates with VAL.
+    title: 'Optimize your team on the ground, from the cloud.'
+  - align: Right
+    image: /img/img6.png
+    text: >-
+      Offer your clients on demand parking, repairs & maintenance natively
+      inside your products and services in days not months.
+
+      SCHEDULE DEMO
+    title: Equip your fleet with support services on-demand
+  - align: Left
+    image: /img/img7copia.png
+    text: >-
+      Reduce overhead of expensive city center garages, and enable your business
+      to offer customers click-to-door delivery by leveraging our Virtual Garage
+      solutions. Integrates with VAL.
+    title: 'Securely store your vehicles, and deploy on-demand.'
 Footer:
   copyright: © Copyright – DropCar 2018
+  links:
+    - text: Help Center
+      url: 'https://dropcar.zendesk.com/hc/en-us'
+    - text: Terms & Policies
+      url: 'https://dropcar.zendesk.com/hc/en-us/articles/206031681-Terms-Conditions'
+    - text: Become a Driver
+      url: 'http://drop.car/valets/'
   text: 'Open 24 Hours, 7 Days a Week, 365 Days a Year'
 ---
 
