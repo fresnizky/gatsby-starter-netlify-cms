@@ -6,12 +6,13 @@ hero:
     for less than you’re paying now.
   title: Powering the future of urban mobility.
 icons:
-  - icon: /img/logo_01.png
-  - icon: /img/logo_02.png
-  - icon: /img/logo_03.png
-  - icon: /img/logo_04.png
-  - icon: /img/logo_05.png
-  - icon: /img/logo_06.png
+  items:
+    - icon: /img/logo_01.png
+    - icon: /img/logo_02.png
+    - icon: /img/logo_03.png
+    - icon: /img/logo_04.png
+    - icon: /img/logo_05.png
+    - icon: /img/logo_06.png
 features:
   - align: Right
     image: /img/pc.png

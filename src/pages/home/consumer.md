@@ -121,16 +121,17 @@ products:
       taxes: tax included
   title: Great to meet you!
 icons:
-  - icon: /img/logo01.png
-  - icon: /img/logo02.png
-  - icon: /img/logo03.png
-  - icon: /img/logo04.png
-  - icon: /img/logo05.png
-  - icon: /img/logo06.png
-  - icon: /img/logo07.png
-  - icon: /img/logo08.png
-  - icon: /img/logo09.png
-  - icon: /img/logo091.png
+  items:
+    - icon: /img/logo01.png
+    - icon: /img/logo02.png
+    - icon: /img/logo03.png
+    - icon: /img/logo04.png
+    - icon: /img/logo05.png
+    - icon: /img/logo06.png
+    - icon: /img/logo07.png
+    - icon: /img/logo08.png
+    - icon: /img/logo09.png
+    - icon: /img/logo091.png
 callToAction:
   image: /img/iphonedescription.gif
   text: Still not sold? Crave deeper human interaction?
