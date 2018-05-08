@@ -45,9 +45,26 @@ products:
       taxes: include tax
   title: Where there’s a WILL  there’s a way.
 icons:
-  title: Test
+  items:
+    - icon: /img/logo_01.png
+    - icon: /img/logo_02.png
+    - icon: /img/logo_03.png
+    - icon: /img/logo_04.png
+    - icon: /img/logo_05.png
+    - icon: /img/logo_06.png
+    - icon: /img/logo_07.png
+    - icon: /img/logo_08.png
+    - icon: /img/logo_09.png
+    - icon: /img/logo_03.png
+  title: You are in good company.
 features:
-  - title: Test
+  - align: Right
+    text: >
+      DropCar’s mobile app gives clients real-time access to our network of
+      valets, and complete control over their parking, repair & maintenance
+      needs.
+    title: Vehicle support at the tap of a button.
+    video: /img/dropcar_v7 (1).mp4
 Footer:
   text: Test
 ---
