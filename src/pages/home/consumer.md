@@ -148,7 +148,8 @@ features:
       We've partnered with FIJI Water, the #1 premium imported bottled water in
       the United States, to keep you hydrated while on the go.
     title: Now serving Earth’s Finest Water.
-  - image: /img/zendrive.png
+  - align: Right
+    image: /img/zendrive.png
     text: >-
       We’ve integrated Zendrive into our technology to track route and drive
       quality every time we get into a car.
