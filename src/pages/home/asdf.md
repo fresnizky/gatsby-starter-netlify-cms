@@ -65,7 +65,37 @@ features:
       needs.
     title: Vehicle support at the tap of a button.
     video: /img/dropcar_v7 (1).mp4
+  - align: Left
+    image: /img/img1.png
+    subtitle: ''
+    text: >-
+      Our large network of friendly, professional, and fully insured valets are
+      available throughout the city on demand, synced with your GPS, or by
+      scheduling up to 30 days in advance.
+    title: 'Right now, or later. You decide.'
+  - align: Right
+    image: /img/360img.gif
+    text: >-
+      The DropCar 360 program offers washes, refueling, oil changes, servicing,
+      inspections, repair work, and more with front door pickup & dropoff for
+      your tenants.
+    title: A full auto body & repair shop in every building.
+  - align: Left
+    image: /img/tailorimg.png
+    text: >-
+      We work with partners to fully customize their client’s experience
+      according to specific buildings, demographics, and other needs of your
+      tenants and sales/leasing staff.
+    title: Tailor Your Client’s Experience.
 Footer:
-  text: Test
+  copyright: © Copyright – DropCar 2018
+  links:
+    - text: Help Center
+      url: 'https://dropcar.zendesk.com/hc/en-us'
+    - text: Terms & Policies
+      url: 'https://dropcar.zendesk.com/hc/en-us/articles/206031681-Terms-Conditions'
+    - text: Become a Driver
+      url: 'http://drop.car/valets/'
+  text: 'Open 24 Hours, 7 Days a Week, 365 Days a Year'
 ---
 
