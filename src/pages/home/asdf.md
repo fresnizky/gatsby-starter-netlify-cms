@@ -65,6 +65,13 @@ features:
       needs.
     title: Vehicle support at the tap of a button.
     video: /img/dropcar_v7 (1).mp4
+  - image: /img/img1.png
+    subtitle: ''
+    text: >-
+      Our large network of friendly, professional, and fully insured valets are
+      available throughout the city on demand, synced with your GPS, or by
+      scheduling up to 30 days in advance.
+    title: 'Right now, or later. You decide.'
 Footer:
   text: Test
 ---
