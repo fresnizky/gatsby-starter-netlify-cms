@@ -1,5 +1,5 @@
 ---
-title: Business
+title: 'Business '
 hero:
   text: |-
     Transport and maintain your vehicles with DropCar 
