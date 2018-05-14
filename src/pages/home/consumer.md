@@ -1,5 +1,5 @@
 ---
-title: Consumer
+title: 'Consumer '
 hero:
   background: /img/header.consumer.jpg
   text: >-
