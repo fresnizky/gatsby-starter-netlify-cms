@@ -1,4 +1,5 @@
 ---
+templateKey: media-post
 title: There’s now an app that will park your car for you
 excerpt: Time-crunched New York drivers have a new valet parking service to consider.
 website: nypost.com

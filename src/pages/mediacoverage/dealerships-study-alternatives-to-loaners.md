@@ -1,4 +1,5 @@
 ---
+templateKey: media-post
 title: Dealerships study alternatives to loaners
 excerpt: >-
   DropCar, an app-based valet parking and driving company, picks up and returns

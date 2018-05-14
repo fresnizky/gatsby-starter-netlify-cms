@@ -1,4 +1,5 @@
 ---
+templateKey: media-post
 title: >-
   DropCar uses technology to undercut New York parking industry, offers $15/hour
   valet service

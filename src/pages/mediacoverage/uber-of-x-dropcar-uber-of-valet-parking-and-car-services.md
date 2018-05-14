@@ -1,4 +1,5 @@
 ---
+templateKey: media-post
 title: 'Uber Of X: DropCar, Uber Of Valet Parking And Car Services'
 excerpt: >-
   It seems as though valet parking tends to be reserved for restaurant patrons

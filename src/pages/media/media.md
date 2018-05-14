@@ -1,4 +1,5 @@
 ---
+templateKey: media-page
 title: 'Media '
 pressrelease:
   - item: 'DropCar, Inc. (Nasdaq: DCAR) Rings The Nasdaq Stock Market Opening Bell'

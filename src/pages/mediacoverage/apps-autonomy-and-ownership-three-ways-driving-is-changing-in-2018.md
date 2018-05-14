@@ -1,4 +1,5 @@
 ---
+templateKey: media-post
 title: 'Apps, autonomy and ownership: Three ways driving is changing in 2018'
 excerpt: >-
   DETROIT — New SUVs and trucks are dominating this year’s North American

@@ -1,4 +1,5 @@
 ---
+templateKey: media-post
 title: Der Erfolg des Start-Ups DropCar zeigt das Parkplatzproblem in den Städten
 excerpt: >-
   Der Erfolg dieser Geschäftsidee zeigt, was in unseren Städten schief läuft

@@ -1,4 +1,5 @@
 ---
+templateKey: media-post
 title: 'DropCar, una aplicación para pedir un valet para el auto, llega a la Argentina'
 excerpt: >-
   DropCar es una aplicación mediante la cual los conductores pueden obtener un

@@ -1,4 +1,5 @@
 ---
+templateKey: media-post
 title: These are the five coolest things we saw at the 2017 Luxury Technology Show
 excerpt: >-
   Last week’s Luxury Technology Show in New York’s Metropolitan Pavilion

@@ -1,4 +1,5 @@
 ---
+templateKey: media-post
 title: 'Uber of X: DropCar is the Uber of City Parking'
 excerpt: >-
   Anyone who owns a car and has lived in a large city for longer than a week

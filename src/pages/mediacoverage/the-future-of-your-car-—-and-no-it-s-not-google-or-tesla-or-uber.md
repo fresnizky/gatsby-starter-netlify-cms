@@ -1,4 +1,5 @@
 ---
+templateKey: media-post
 title: 'THE FUTURE OF YOUR CAR — AND NO, IT''S NOT GOOGLE OR TESLA OR UBER'
 excerpt: >-
   Spencer Richardson wants to spare you the aggravation of looking for a parking

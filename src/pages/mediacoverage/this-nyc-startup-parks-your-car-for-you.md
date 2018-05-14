@@ -1,4 +1,5 @@
 ---
+templateKey: media-post
 title: This NYC Startup Parks Your Car For You
 excerpt: >-
   Parking a car on the street in NYC collectively accounts for millions of hours

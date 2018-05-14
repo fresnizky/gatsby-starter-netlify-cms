@@ -1,5 +1,6 @@
 ---
-title: 'Real Estate '
+templateKey: home-page
+title: 'Real Estate'
 hero:
   text: |-
     Launch a Virtual Garage + Car Concierge 

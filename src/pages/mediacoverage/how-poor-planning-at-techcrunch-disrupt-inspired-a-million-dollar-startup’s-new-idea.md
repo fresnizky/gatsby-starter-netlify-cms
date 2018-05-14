@@ -1,4 +1,5 @@
 ---
+templateKey: media-post
 title: >-
   How Poor Planning at TechCrunch Disrupt Inspired a Million-Dollar Startup’s
   New Idea

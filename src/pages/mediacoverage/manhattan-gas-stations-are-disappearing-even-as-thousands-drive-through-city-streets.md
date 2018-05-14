@@ -1,4 +1,5 @@
 ---
+templateKey: media-post
 title: >-
   Manhattan gas stations are disappearing, even as thousands drive through city
   streets

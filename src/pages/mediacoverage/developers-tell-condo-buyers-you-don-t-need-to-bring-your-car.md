@@ -1,4 +1,5 @@
 ---
+templateKey: media-post
 title: 'Developers Tell Condo Buyers: You Don''t Need To Bring Your Car'
 excerpt: >-
   For luxury homeowners who want to kick the car habit, these condo developers
