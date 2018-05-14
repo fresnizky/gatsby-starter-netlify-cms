@@ -1,5 +1,5 @@
 ---
-title: Media
+title: 'Media '
 pressrelease:
   - item: 'DropCar, Inc. (Nasdaq: DCAR) Rings The Nasdaq Stock Market Opening Bell'
   - item: DropCar Completes Merger with WPCS
