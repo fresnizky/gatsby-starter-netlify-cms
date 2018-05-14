@@ -1,5 +1,5 @@
 ---
-title: Real Estate
+title: 'Real Estate '
 hero:
   text: |-
     Launch a Virtual Garage + Car Concierge 
