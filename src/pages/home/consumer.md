@@ -9,7 +9,8 @@ hero:
   title: Your personal car concierge.
   video: /img/dropcar_v7.mp4
 reviews:
-  - text: >-
+  - rank: '4'
+    text: >-
       It’s time has come. Taking the pain out of parking. Amazing door to door
       service and I’ll never be late for an appointment again. What a brilliant
       idea!
