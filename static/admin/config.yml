@@ -67,7 +67,7 @@ collections:
             name: "description"
             widget: "text"
           - label: "Product List"
-            name: "pruductList"
+            name: "productList"
             widget: "list"
             fields:
               - label: "Icon"

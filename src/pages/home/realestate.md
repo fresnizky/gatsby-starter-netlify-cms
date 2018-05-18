@@ -18,7 +18,7 @@ products:
 
     The customizable use cases are endless. For your project, WILL creates an
     amenity that extends beyond the building and throughout the city.
-  pruductList:
+  productList:
     - description: >-
         stores your car when you don’t need it, and drives it back to you when
         you do.

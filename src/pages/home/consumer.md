@@ -111,7 +111,7 @@ products:
   description: >-
     Avoid the detour. Let one of our friendly & professional drivers meet you
     right at your destination.
-  pruductList:
+  productList:
     - actions:
         - EAT DINNER
         - ROCK YOUR MEETING
