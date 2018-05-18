@@ -51,6 +51,7 @@ collections:
             widget: "select"
             options: ["5", "4", "3", "2", "1"]
             default: 5
+            require: true
           - label: "Text"
             name: "text"
             widget: "text"
