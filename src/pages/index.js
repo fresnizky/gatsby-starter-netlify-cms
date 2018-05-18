@@ -1,19 +1,29 @@
-import React from 'react'
-import Hero from '../components/Hero'
+import React from 'react';
+import Hero from '../components/Hero';
 import Reviews from '../components/Reviews';
+import Products from '../components/Products';
+import Icons from '../components/Icons';
 
 export default class IndexPage extends React.Component {
   render() {
     const {data} = this.props;
-    const { edges: posts } = data.allMarkdownRemark
-    const reviews = posts[0].node.frontmatter.reviews;
+    const { edges: posts } = data.allMarkdownRemark;
+    const frontmatter = posts[0].node.frontmatter;
+    const hero = frontmatter.hero;
+    const reviews = frontmatter.reviews;
+    const products = frontmatter.products;
+    const icons = frontmatter.icons;
+
+    console.log(products);
 
     return (
       <section className="section">
         <div className="container">
           <div className="content">
-            <Hero {...posts[0].node.frontmatter.hero}></Hero>
+            <Hero {...hero}></Hero>
             <Reviews reviews={reviews}></Reviews>
+            <Products {...products}></Products>
+            <Icons {...icons}></Icons>
           </div>
         </div>
       </section>
@@ -44,6 +54,26 @@ export const pageQuery = graphql`
               title
               user
               rank
+            }
+            products{
+              title
+              description
+              productList {
+                icon
+                name
+                description
+                actions
+                price
+                period
+                taxes
+                fees
+              }
+            }
+            icons {
+              title
+              items {
+                icon
+              } 
             }
           }
         }
