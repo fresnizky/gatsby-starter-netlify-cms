@@ -4,6 +4,7 @@ import Reviews from '../components/Reviews';
 import Products from '../components/Products';
 import Icons from '../components/Icons';
 import CallToAction from '../components/CallToAction';
+import Features from '../components/Features';
 
 export default class IndexPage extends React.Component {
   render() {
@@ -15,8 +16,9 @@ export default class IndexPage extends React.Component {
     const products = frontmatter.products;
     const icons = frontmatter.icons;
     const callToAction = frontmatter.callToAction;
+    const features = frontmatter.features;
 
-    console.log(products);
+    console.log(features);
 
     return (
       <section className="section">
@@ -27,6 +29,7 @@ export default class IndexPage extends React.Component {
             <Products {...products}></Products>
             <Icons {...icons}></Icons>
             <CallToAction {...callToAction}></CallToAction>
+            <Features features={features}></Features>
           </div>
         </div>
       </section>
@@ -81,7 +84,15 @@ export const pageQuery = graphql`
             callToAction {
               image
               text
-            }  
+            }
+            features {
+              align
+              image
+              subtitle
+              text
+              title
+              video
+            }
           }
         }
       }
