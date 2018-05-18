@@ -107,7 +107,6 @@ reviews:
       and cost 3x as much. A great service that I will definitely use again!!!
     title: Best service!!!
     user: Jfbk
-  - {}
 products:
   description: >-
     Avoid the detour. Let one of our friendly & professional drivers meet you
