@@ -11,7 +11,6 @@ const Reviews = ({reviews}) => (
                 <p>{review.text}</p>
             </div>
         ))}
-    {reviews.length}
     </div>
 )
 

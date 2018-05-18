@@ -3,6 +3,7 @@ import Hero from '../components/Hero';
 import Reviews from '../components/Reviews';
 import Products from '../components/Products';
 import Icons from '../components/Icons';
+import CallToAction from '../components/CallToAction';
 
 export default class IndexPage extends React.Component {
   render() {
@@ -13,6 +14,7 @@ export default class IndexPage extends React.Component {
     const reviews = frontmatter.reviews;
     const products = frontmatter.products;
     const icons = frontmatter.icons;
+    const callToAction = frontmatter.callToAction;
 
     console.log(products);
 
@@ -24,6 +26,7 @@ export default class IndexPage extends React.Component {
             <Reviews reviews={reviews}></Reviews>
             <Products {...products}></Products>
             <Icons {...icons}></Icons>
+            <CallToAction {...callToAction}></CallToAction>
           </div>
         </div>
       </section>
@@ -75,6 +78,10 @@ export const pageQuery = graphql`
                 icon
               } 
             }
+            callToAction {
+              image
+              text
+            }  
           }
         }
       }
