@@ -6,6 +6,7 @@ import Icons from '../components/Icons';
 import CallToAction from '../components/CallToAction';
 import Features from '../components/Features';
 import ContactFooter from '../components/ContactFooter';
+import Footer from '../components/Footer';
 
 export default class IndexPage extends React.Component {
   render() {
@@ -19,8 +20,9 @@ export default class IndexPage extends React.Component {
     const callToAction = frontmatter.callToAction;
     const features = frontmatter.features;
     const contactFooter = frontmatter.contactFooter;
+    const footer = frontmatter.Footer;
 
-    console.log(contactFooter);
+    console.log(footer);
 
     return (
       <section className="section">
@@ -33,6 +35,7 @@ export default class IndexPage extends React.Component {
             <CallToAction {...callToAction}></CallToAction>
             <Features features={features}></Features>
             <ContactFooter {...contactFooter}></ContactFooter>
+            <Footer {...footer}></Footer>
           </div>
         </div>
       </section>
@@ -106,6 +109,14 @@ export const pageQuery = graphql`
               }
               socialIcons {
                 icon
+                url
+              }
+            }
+            Footer {
+              copyright
+              text
+              links {
+                text
                 url
               }
             }  
