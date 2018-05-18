@@ -5,6 +5,7 @@ import Products from '../components/Products';
 import Icons from '../components/Icons';
 import CallToAction from '../components/CallToAction';
 import Features from '../components/Features';
+import ContactFooter from '../components/ContactFooter';
 
 export default class IndexPage extends React.Component {
   render() {
@@ -17,8 +18,9 @@ export default class IndexPage extends React.Component {
     const icons = frontmatter.icons;
     const callToAction = frontmatter.callToAction;
     const features = frontmatter.features;
+    const contactFooter = frontmatter.contactFooter;
 
-    console.log(features);
+    console.log(contactFooter);
 
     return (
       <section className="section">
@@ -30,6 +32,7 @@ export default class IndexPage extends React.Component {
             <Icons {...icons}></Icons>
             <CallToAction {...callToAction}></CallToAction>
             <Features features={features}></Features>
+            <ContactFooter {...contactFooter}></ContactFooter>
           </div>
         </div>
       </section>
@@ -93,6 +96,19 @@ export const pageQuery = graphql`
               title
               video
             }
+            contactFooter {
+              text
+              title1
+              title2
+              contactIcons {
+                icon
+                url
+              }
+              socialIcons {
+                icon
+                url
+              }
+            }  
           }
         }
       }
